@@ -10,6 +10,13 @@ This documentation provides instructions for using the HalrTech-inspired React t
 - Customizable sections for your business needs
 - Built with React and TypeScript for maintainability
 
+
+## Demo
+
+Here's a quick look at the web application:
+
+![Demo](view.jpg)
+
 ## Getting Started
 
 ### Prerequisites
